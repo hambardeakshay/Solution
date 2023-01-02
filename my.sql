@@ -47,7 +47,7 @@ create table Courses
 git clone
 code .
 git status 
-git add
+git add .
 git commit -m "changes"
 git push
 // aws
