@@ -58,3 +58,5 @@ sudo systemctl enable docker
 sudo systemctl status docker
 sudo docker images
 sudo docker build -t myapp .
+sudo docker run -d -p 3000:3000 myapp
+sudo docker ps
