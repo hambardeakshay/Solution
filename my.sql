@@ -50,3 +50,11 @@ git status
 git add
 git commit -m "changes"
 git push
+// aws
+sudo yum install git
+sudo yum install docker
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+sudo docker images
+sudo docker build -t myapp .
