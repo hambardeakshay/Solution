@@ -44,6 +44,9 @@ create table Courses
 
 
 );
+npm init
+npm install node
+npm install express
 git clone
 code .
 git status 
